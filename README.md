@@ -3,5 +3,8 @@
 
 ![image](https://github.com/user-attachments/assets/17d70aae-d363-440d-81f1-4323045b1ea2)
 
+![image](https://github.com/user-attachments/assets/6f2aaa86-ec72-4065-9d9c-edb0805bf7ac)
+
+
 
 This analysis provides insights of content available, popular genres, and distribution of titles by release date.
